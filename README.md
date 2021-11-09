@@ -1,37 +1,37 @@
 # 30天入门数据竞赛
 
-#### 介绍
-Coggle 30 Days of ML（30天入门竞赛）
+## 参与方式
 
-#### 软件架构
-软件架构说明
+* 活动是免费学习活动，不会收取任何费用。
+* **请各位同学添加下面微信，并回复【竞赛学习】，即可参与。**
 
+![](https://cdn.coggle.club/coggle666_qrcode.png)
 
-#### 安装教程
+## 2021年11月活动
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+在给大家分享知识的过程中，发现很多同学在学习竞赛都存在较多的问题：
 
-#### 使用说明
+* Linux不会操作，不知道文件目录创建、命令行等细节
+* Linux不知道如何运行代码，保存模型
+* Pytorch不知道如何从头写代码
+* Pytorch不知道定义模型和运行模型
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+而上述问题都是一个竞赛选手、一个算法工程师所必备的。因此我们将从本月组织一次竞赛训练营活动，希望能够帮助大家入门数据竞赛。在活动中我们将布置具体竞赛任务，然后参与的同学们不断闯关完成，竟可能的帮助大家入门。
 
 
-#### 特技
+## 2021年10月活动
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+在给大家分享知识的过程中，发现很多同学在学习竞赛都存在较多的问题：
+
+* Pandas、Numpy 处理数据不熟悉
+* Sklearn、LightGBM 模型使用不熟悉
+* 不知道如何构建特征工程
+* 不知道如何筛选特征
+
+而上述问题都是一个竞赛选手、一个算法工程师所必备的。因此我们将从本月组织一次竞赛训练营活动，希望能够帮助大家入门数据竞赛。在活动中我们将布置具体竞赛任务，然后参与的同学们不断闯关完成，竟可能的帮助大家入门。
+
+10 月份的竞赛活动将以以下三个比赛展开：
+
+* [结构化赛题：天池新人赛二手车交易价格预测](https://tianchi.aliyun.com/competition/entrance/231784/introduction)
+* [CV赛题：科大讯飞新人赛人脸关键点检测挑战赛](https://challenge.xfyun.cn/topic/info?type=key-points-of-human-face&ch=dw-sq-1)
+* [NLP赛题：天池新人赛新闻文本分类](https://tianchi.aliyun.com/competition/entrance/531810/introduction)
