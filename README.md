@@ -18,6 +18,10 @@
 
 而上述问题都是一个竞赛选手、一个算法工程师所必备的。因此我们将从本月组织一次竞赛训练营活动，希望能够帮助大家入门数据竞赛。在活动中我们将布置具体竞赛任务，然后参与的同学们不断闯关完成，竟可能的帮助大家入门。
 
+学习资料：https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-21-11.md
+
+打卡汇总：https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-21-11.xlsx
+
 ---
 
 ## 2021年10月活动
