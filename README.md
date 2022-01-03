@@ -9,6 +9,20 @@
 
 ---
 
+## 2022年1&2月活动
+
+在给大家分享知识的过程中，发现很多同学在学习竞赛都存在较多的问题：
+
+- 不知道如何使用LightGBM
+- 不知道如何入手NLP比赛
+- 不知道如何搭建模型
+
+本次竞赛学习将从LightGBM和NLP文本匹配两部分进行展开的，希望对大家有所帮助。
+
+学习资料：https://coggle.club/blog/30days-of-ml-202201
+
+---
+
 ## 2021年12月活动
 
 在给大家分享知识的过程中，发现很多同学在学习竞赛都存在较多的问题：
@@ -17,6 +31,10 @@
 - 不知道如何搭建模型
 
 而上述问题都是一个竞赛选手、一个算法工程师所必备的。因此我们将从本月组织一次竞赛训练营活动，希望能够帮助大家入门数据竞赛。在活动中我们将布置具体竞赛任务，然后参与的同学们不断闯关完成，竟可能的帮助大家入门。
+
+学习资料：https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-21-12.pdf
+
+打卡汇总：https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-21-12.xlsx
 
 ---
 
