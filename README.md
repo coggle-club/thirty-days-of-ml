@@ -9,6 +9,21 @@
 
 ---
 
+## 2022年3月活动
+
+在给大家分享知识的过程中，发现很多同学在工作和学业中存在较多的问题：
+
+* 对网络编程了解较少，不会从HTML中提取信息；
+* 不会爬虫，不会收集数据，也不会部署模型；
+* 不了解Spark，不会使用Spark进行数据处理。
+
+
+而上述问题都是一个合格算法工程师所必备的。因此我们将从本月组织一次竞赛训练营活动，希望能够帮助大家入门数据科学。
+
+学习资料：[https://coggle.club/blog/30days-of-ml-202203](https://coggle.club/blog/30days-of-ml-202203)
+
+---
+
 ## 2022年1&2月活动
 
 在给大家分享知识的过程中，发现很多同学在学习竞赛都存在较多的问题：
@@ -19,7 +34,10 @@
 
 本次竞赛学习将从LightGBM和NLP文本匹配两部分进行展开的，希望对大家有所帮助。
 
-学习资料：https://coggle.club/blog/30days-of-ml-202201
+学习资料：[https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-21-1.md](https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-22-1.md)
+
+打卡汇总：[https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-22-1.xlsx](https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-22-1.xlsx)
+
 
 ---
 
