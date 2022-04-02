@@ -9,6 +9,18 @@
 
 ---
 
+## 2022年4月活动
+
+在给大家分享知识的过程中，发现很多同学对推荐系统非常感兴趣，因此本月我们就开始学习推荐系统：
+
+- 推荐系统的评价指标是什么？
+- 协同过滤基础（User/Item Based）
+- 召回和排序的逻辑是什么？
+
+学习资料：[https://coggle.club/blog/30days-of-ml-202204](https://coggle.club/blog/30days-of-ml-202204)
+
+---
+
 ## 2022年3月活动
 
 在给大家分享知识的过程中，发现很多同学在工作和学业中存在较多的问题：
@@ -22,6 +34,7 @@
 
 学习资料：[https://coggle.club/blog/30days-of-ml-202203](https://coggle.club/blog/30days-of-ml-202203)
 
+打卡汇总：[https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-22-3.xlsx](https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-22-3.xlsx)
 ---
 
 ## 2022年1&2月活动
