@@ -33,6 +33,8 @@
 
 学习资料：[https://coggle.club/blog/30days-of-ml-202207](https://coggle.club/blog/30days-of-ml-202207)
 
+打卡汇总：https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-22-07.xlsx
+
 ---
 
 ## 2022年5月活动
@@ -56,6 +58,8 @@
 - 召回和排序的逻辑是什么？
 
 学习资料：[https://coggle.club/blog/30days-of-ml-202204](https://coggle.club/blog/30days-of-ml-202204)
+
+打卡汇总：https://gitee.com/coggle/thirty-days-of-ml/blob/master/content/Coggle-30-Days-of-ML-22-04.xlsx
 
 ---
 
