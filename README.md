@@ -9,6 +9,44 @@
 
 ---
 
+## 2022年8月活动
+
+在给大家分享知识的过程中，发现很多同学在学习竞赛都存在较多的问题：
+
+- 不知道如何构建特征工程、筛选特征
+- 不知道如何搭建深度学习模型、优化模型
+- 不知道如何改建模型、debug模型
+
+
+学习资料：[https://coggle.club/blog/30days-of-ml-202208](https://coggle.club/blog/30days-of-ml-202208)
+
+---
+
+## 2022年7月活动
+
+在给大家分享知识的过程中，发现很多同学在学习竞赛都存在较多的问题：
+
+- Pandas、Numpy 处理数据不熟悉
+- Sklearn、LightGBM 模型使用不熟悉
+- 不知道如何构建特征工程、筛选特征
+- NLP模型不知道如何搭建
+
+学习资料：[https://coggle.club/blog/30days-of-ml-202207](https://coggle.club/blog/30days-of-ml-202207)
+
+---
+
+## 2022年5月活动
+
+在给大家分享知识的过程中，发现很多同学对NLP中的transformer非常感兴趣，因此本月我们就开始学习transformer：
+
+- NLP的基础任务和解决方法
+- NLP中BERT基础
+- transformer基础使用
+
+学习资料：[https://coggle.club/blog/30days-of-ml-202205](https://coggle.club/blog/30days-of-ml-202205)
+
+---
+
 ## 2022年4月活动
 
 在给大家分享知识的过程中，发现很多同学对推荐系统非常感兴趣，因此本月我们就开始学习推荐系统：
