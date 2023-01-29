@@ -1,5 +1,7 @@
 # 30天入门数据竞赛
 
+国内项目镜像：https://gitee.com/coggle/thirty-days-of-ml
+
 ## 参与方式
 
 * 活动是免费学习活动，不会收取任何费用。
